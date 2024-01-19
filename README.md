@@ -1,5 +1,3 @@
-# beatpoker_publish  
-
 脸书群组：www.facebook.com/groups/1014751592830853  
 本人微信：_12260723  
 本人QQ:12260723  
