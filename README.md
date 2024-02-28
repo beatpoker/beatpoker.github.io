@@ -5,7 +5,7 @@
   
   
 如何安装 Beat Poker 应用程序  
-1 下载最新版本 https://github.com/haifengjhf/beatpoker_publish/releases/  
+1 下载最新版本 https://github.com/beatpoker/beatpoker.github.io/releases
   
   
 对本软件的任何意见都可以通过Issues提交，我会及时处理。  
@@ -39,12 +39,12 @@ xxxxx
   
 
 
-脸书群组：  
-![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)
+Facabook Group:  
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=100px>
   
       
-QQ群： 
-![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)
+QQ Group:  
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=100px>
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -58,7 +58,7 @@ QQ:12260723
   
   
 How to install the Beat Poker app 
-1 download last version https://github.com/haifengjhf/beatpoker_publish/releases/
+1 download last version https://github.com/beatpoker/beatpoker.github.io/releases
 
 
 Any comments on this software can be submitted through Issues, and I will deal with it in time.  
@@ -92,8 +92,9 @@ xxxxx
 
 
 Facabook Group:  
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)  
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=100px>
   
       
 QQ Group:  
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)  
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=100px>
+  
