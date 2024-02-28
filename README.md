@@ -40,11 +40,11 @@ xxxxx
 
 
 Facabook Group:  
-<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=100px>
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=200px>
   
       
 QQ Group:  
-<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=100px>
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=200px>
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -92,9 +92,9 @@ xxxxx
 
 
 Facabook Group:  
-<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=100px>
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg" width=200px>
   
       
 QQ Group:  
-<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=100px>
+<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG" width=200px>
   
